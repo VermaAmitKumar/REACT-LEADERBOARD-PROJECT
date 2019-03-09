@@ -2,6 +2,7 @@
   "name": "players",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://REACT-LEADERBOARD-PROJECT.com/players",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
